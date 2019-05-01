@@ -15,4 +15,4 @@ Git is a free software
 试试git stash 以及在哪个分支创建分支
 dev和master关联了～？？？
 都关联了吗？？？/
->>>>>>> dev
+未合并就删除分支
