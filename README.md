@@ -8,3 +8,4 @@ Creating a new branch is quick AND simple..
 dev推送到远程分支
 看看不用fast-forward merge 会是啥样  会保留分支记录？啥意思啊
 Git is a free software
+什么鬼？？/
