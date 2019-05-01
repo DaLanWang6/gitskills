@@ -9,3 +9,6 @@ dev推送到远程分支
 看看不用fast-forward merge 会是啥样  会保留分支记录？啥意思啊
 Git is a free software
 什么鬼？？/
+试试git stash 以及在哪个分支创建分支
+dev和master关联了～？？？
+都关联了吗？？？/
